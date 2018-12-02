@@ -1,9 +1,7 @@
 package pl.edu.agh.kis.news_fragments_demo;
 
 public final class Shakespeare {
-    /**
-     * Our data, part 1.
-     */
+
     public static final String[] TITLES = 
     {
             "Henry IV (1)",   
@@ -15,10 +13,7 @@ public final class Shakespeare {
             "Othello",
             "King Lear"
     };
-    
-    /**
-     * Our data, part 2.
-     */
+
     public static final String[] DIALOGUE = 
     {
             "So shaken as we are, so wan with care," +

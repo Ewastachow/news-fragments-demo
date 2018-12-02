@@ -10,19 +10,15 @@ import android.widget.ScrollView;
 import android.widget.TextView;
 
 public class ArticleReaderFragment extends Fragment {
-    /**
-     * Create a new instance of DetailsFragment, initialized to
-     * show the text at 'index'.
-     */
-    public static ArticleReaderFragment newInstance(int index) {
-        ArticleReaderFragment f = new ArticleReaderFragment();
 
-        // Supply index input as an argument.
+    public static ArticleReaderFragment newInstance(int index) {
+        ArticleReaderFragment detailFragment = new ArticleReaderFragment();
+
         Bundle args = new Bundle();
         args.putInt("index", index);
-        f.setArguments(args);
+        detailFragment.setArguments(args);
 
-        return f;
+        return detailFragment;
     }
 
     public int getShownIndex() {
@@ -32,16 +28,8 @@ public class ArticleReaderFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        if (container == null) {
-            // We have different layouts, and in one of them this
-            // fragment's containing frame doesn't exist. The fragment
-            // may still be created from its saved state, but there is
-            // no reason to try to create its view hierarchy because it
-            // isn't displayed. Note this isn't needed -- we could just
-            // run the code below, where we would create and return the
-            // view hierarchy; it would just never be used.
+        if (container == null)
             return null;
-        }
 
         ScrollView scroller = new ScrollView(getActivity());
         TextView text = new TextView(getActivity());
