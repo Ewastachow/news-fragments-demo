@@ -4,215 +4,163 @@ public final class Shakespeare {
 
     public static final String[] TITLES = 
     {
-            "Henry IV (1)",   
-            "Henry V",
-            "Henry VIII",       
-            "Richard II",
-            "Richard III",
-            "Merchant of Venice",  
-            "Othello",
-            "King Lear"
+            "Trzeba wprowadzić realny rozdział Kościoła od państwa",
+            "Szczyt Klimatyczny w Katowicach",
+            "Dachował policyjny radiowóz eskortujący prezydenta Botswany",
+            "Silny wiatr i śliska nawierzchnia. Żółte alerty meteorologiczne",
+            "Ultimatum USA: Rosja ma 60 dni na powrót do przestrzegania traktatu",
+            "Ministrowie uznani za winnych obrazy parlamentu. Pierwszy raz w historii",
+            "George H.W. Bush nie żyje",
+            "Horngacher wciąż wierzy w Kota. Austriak podał skład na konkursy Pucharu Świata"
     };
 
     public static final String[] DIALOGUE = 
     {
-            "So shaken as we are, so wan with care," +
-            "Find we a time for frighted peace to pant," +
-            "And breathe short-winded accents of new broils" +
-            "To be commenced in strands afar remote." +
-            "No more the thirsty entrance of this soil" +
-            "Shall daub her lips with her own children's blood;" +
-            "Nor more shall trenching war channel her fields," +
-            "Nor bruise her flowerets with the armed hoofs" +
-            "Of hostile paces: those opposed eyes," +
-            "Which, like the meteors of a troubled heaven," +
-            "All of one nature, of one substance bred," +
-            "Did lately meet in the intestine shock" +
-            "And furious close of civil butchery" +
-            "Shall now, in mutual well-beseeming ranks," +
-            "March all one way and be no more opposed" +
-            "Against acquaintance, kindred and allies:" +
-            "The edge of war, like an ill-sheathed knife," +
-            "No more shall cut his master. Therefore, friends," +
-            "As far as to the sepulchre of Christ," +
-            "Whose soldier now, under whose blessed cross" +
-            "We are impressed and engaged to fight," +
-            "Forthwith a power of English shall we levy;" +
-            "Whose arms were moulded in their mothers' womb" +
-            "To chase these pagans in those holy fields" +
-            "Over whose acres walk'd those blessed feet" +
-            "Which fourteen hundred years ago were nail'd" +
-            "For our advantage on the bitter cross." +
-            "But this our purpose now is twelve month old," +
-            "And bootless 'tis to tell you we will go:" +
-            "Therefore we meet not now. Then let me hear" +
-            "Of you, my gentle cousin Westmoreland," +
-            "What yesternight our council did decree" +
-            "In forwarding this dear expedience.",
+            "Pieniądze, wpływy, miejsca na liście. " +
+                    "To łączy PiS z Tadeuszem Rydzykiem. " +
+                    "PiS musi sięgać po taki głęboko tradycyjnie katolicki " +
+                    "elektorat - oceniła w \"Kropce nad i\" w TVN24 " +
+                    "Barbara Nowacka (Inicjatywa Polska). - Uważam, " +
+                    "że trzeba wprowadzić realny rozdział Kościoła od " +
+                    "państwa. To, co widzieliśmy na urodzinach Radia Maryja, " +
+                    "to nie były tylko tańce i śpiewy, ale umawianie się na " +
+                    "nasze publiczne pieniądze, które dostanie Kościół w zamian " +
+                    "za popieranie PiS-u - skomentowała. (http://www.tvn24.pl)",
             
-            "Hear him but reason in divinity," + 
-            "And all-admiring with an inward wish" + 
-            "You would desire the king were made a prelate:" + 
-            "Hear him debate of commonwealth affairs," + 
-            "You would say it hath been all in all his study:" + 
-            "List his discourse of war, and you shall hear" + 
-            "A fearful battle render'd you in music:" + 
-            "Turn him to any cause of policy," + 
-            "The Gordian knot of it he will unloose," + 
-            "Familiar as his garter: that, when he speaks," + 
-            "The air, a charter'd libertine, is still," + 
-            "And the mute wonder lurketh in men's ears," + 
-            "To steal his sweet and honey'd sentences;" + 
-            "So that the art and practic part of life" + 
-            "Must be the mistress to this theoric:" + 
-            "Which is a wonder how his grace should glean it," + 
-            "Since his addiction was to courses vain," + 
-            "His companies unletter'd, rude and shallow," + 
-            "His hours fill'd up with riots, banquets, sports," + 
-            "And never noted in him any study," + 
-            "Any retirement, any sequestration" + 
-            "From open haunts and popularity.",
+            "Szczyty klimatyczne ONZ, czyli tzw. " +
+                    "COP (Conference of the Parties, ang. konferencja stron) " +
+                    "to konferencje światowe, podczas których negocjowane są " +
+                    "działania na rzecz polityki klimatycznej. Są organizowane " +
+                    "od 1992 roku. Polska po raz trzeci jest ich gospodarzem, " +
+                    "wcześniej COP w naszym kraju odbył się w 2008 roku w " +
+                    "Poznaniu oraz w 2013 roku w Warszawie. W ramach tegorocznego " +
+                    "szczytu odbywają się: 24. Konferencja Stron Ramowej Konwencji " +
+                    "Narodów Zjednoczonych w sprawie Zmian Klimatu (COP24), 14. " +
+                    "Spotkanie Stron Protokołu z Kioto (CMP 14) oraz Konferencja " +
+                    "sygnatariuszy Porozumienia Paryskiego (CMA 1). W wydarzeniu " +
+                    "uczestniczyć będzie ok. 30 tysięcy osób, w tym politycy, " +
+                    "reprezentanci organizacji pozarządowych oraz środowisk naukowych " +
+                    "i sfery biznesu z kilkudziesięciu krajów. (http://www.tvn24.pl)",
 
-            "I come no more to make you laugh: things now," +
-            "That bear a weighty and a serious brow," +
-            "Sad, high, and working, full of state and woe," +
-            "Such noble scenes as draw the eye to flow," +
-            "We now present. Those that can pity, here" +
-            "May, if they think it well, let fall a tear;" +
-            "The subject will deserve it. Such as give" +
-            "Their money out of hope they may believe," +
-            "May here find truth too. Those that come to see" +
-            "Only a show or two, and so agree" +
-            "The play may pass, if they be still and willing," +
-            "I'll undertake may see away their shilling" +
-            "Richly in two short hours. Only they" +
-            "That come to hear a merry bawdy play," +
-            "A noise of targets, or to see a fellow" +
-            "In a long motley coat guarded with yellow," +
-            "Will be deceived; for, gentle hearers, know," +
-            "To rank our chosen truth with such a show" +
-            "As fool and fight is, beside forfeiting" +
-            "Our own brains, and the opinion that we bring," +
-            "To make that only true we now intend," +
-            "Will leave us never an understanding friend." +
-            "Therefore, for goodness' sake, and as you are known" +
-            "The first and happiest hearers of the town," +
-            "Be sad, as we would make ye: think ye see" +
-            "The very persons of our noble story" +
-            "As they were living; think you see them great," +
-            "And follow'd with the general throng and sweat" +
-            "Of thousand friends; then in a moment, see" +
-            "How soon this mightiness meets misery:" +
-            "And, if you can be merry then, I'll say" +
-            "A man may weep upon his wedding-day.",
-            
-            "First, heaven be the record to my speech!" + 
-            "In the devotion of a subject's love," + 
-            "Tendering the precious safety of my prince," + 
-            "And free from other misbegotten hate," + 
-            "Come I appellant to this princely presence." + 
-            "Now, Thomas Mowbray, do I turn to thee," + 
-            "And mark my greeting well; for what I speak" + 
-            "My body shall make good upon this earth," + 
-            "Or my divine soul answer it in heaven." + 
-            "Thou art a traitor and a miscreant," + 
-            "Too good to be so and too bad to live," + 
-            "Since the more fair and crystal is the sky," + 
-            "The uglier seem the clouds that in it fly." + 
-            "Once more, the more to aggravate the note," + 
-            "With a foul traitor's name stuff I thy throat;" + 
-            "And wish, so please my sovereign, ere I move," + 
-            "What my tongue speaks my right drawn sword may prove.",
-            
-            "Now is the winter of our discontent" + 
-            "Made glorious summer by this sun of York;" + 
-            "And all the clouds that lour'd upon our house" + 
-            "In the deep bosom of the ocean buried." + 
-            "Now are our brows bound with victorious wreaths;" + 
-            "Our bruised arms hung up for monuments;" + 
-            "Our stern alarums changed to merry meetings," + 
-            "Our dreadful marches to delightful measures." + 
-            "Grim-visaged war hath smooth'd his wrinkled front;" + 
-            "And now, instead of mounting barded steeds" + 
-            "To fright the souls of fearful adversaries," + 
-            "He capers nimbly in a lady's chamber" + 
-            "To the lascivious pleasing of a lute." + 
-            "But I, that am not shaped for sportive tricks," + 
-            "Nor made to court an amorous looking-glass;" + 
-            "I, that am rudely stamp'd, and want love's majesty" + 
-            "To strut before a wanton ambling nymph;" + 
-            "I, that am curtail'd of this fair proportion," + 
-            "Cheated of feature by dissembling nature," + 
-            "Deformed, unfinish'd, sent before my time" + 
-            "Into this breathing world, scarce half made up," + 
-            "And that so lamely and unfashionable" + 
-            "That dogs bark at me as I halt by them;" + 
-            "Why, I, in this weak piping time of peace," + 
-            "Have no delight to pass away the time," + 
-            "Unless to spy my shadow in the sun" + 
-            "And descant on mine own deformity:" + 
-            "And therefore, since I cannot prove a lover," + 
-            "To entertain these fair well-spoken days," + 
-            "I am determined to prove a villain" + 
-            "And hate the idle pleasures of these days." + 
-            "Plots have I laid, inductions dangerous," + 
-            "By drunken prophecies, libels and dreams," + 
-            "To set my brother Clarence and the king" + 
-            "In deadly hate the one against the other:" + 
-            "And if King Edward be as true and just" + 
-            "As I am subtle, false and treacherous," + 
-            "This day should Clarence closely be mew'd up," + 
-            "About a prophecy, which says that 'G'" + 
-            "Of Edward's heirs the murderer shall be." + 
-            "Dive, thoughts, down to my soul: here" + 
-            "Clarence comes.",
-            
-            "To bait fish withal: if it will feed nothing else," + 
-            "it will feed my revenge. He hath disgraced me, and" + 
-            "hindered me half a million; laughed at my losses," + 
-            "mocked at my gains, scorned my nation, thwarted my" + 
-            "bargains, cooled my friends, heated mine" + 
-            "enemies; and what's his reason? I am a Jew. Hath" + 
-            "not a Jew eyes? hath not a Jew hands, organs," + 
-            "dimensions, senses, affections, passions? fed with" + 
-            "the same food, hurt with the same weapons, subject" + 
-            "to the same diseases, healed by the same means," + 
-            "warmed and cooled by the same winter and summer, as" + 
-            "a Christian is? If you prick us, do we not bleed?" + 
-            "if you tickle us, do we not laugh? if you poison" + 
-            "us, do we not die? and if you wrong us, shall we not" + 
-            "revenge? If we are like you in the rest, we will" + 
-            "resemble you in that. If a Jew wrong a Christian," + 
-            "what is his humility? Revenge. If a Christian" + 
-            "wrong a Jew, what should his sufferance be by" + 
-            "Christian example? Why, revenge. The villany you" + 
-            "teach me, I will execute, and it shall go hard but I" + 
-            "will better the instruction.",
-            
-            "Virtue! a fig! 'tis in ourselves that we are thus" + 
-            "or thus. Our bodies are our gardens, to the which" + 
-            "our wills are gardeners: so that if we will plant" + 
-            "nettles, or sow lettuce, set hyssop and weed up" + 
-            "thyme, supply it with one gender of herbs, or" + 
-            "distract it with many, either to have it sterile" + 
-            "with idleness, or manured with industry, why, the" + 
-            "power and corrigible authority of this lies in our" + 
-            "wills. If the balance of our lives had not one" + 
-            "scale of reason to poise another of sensuality, the" + 
-            "blood and baseness of our natures would conduct us" + 
-            "to most preposterous conclusions: but we have" + 
-            "reason to cool our raging motions, our carnal" + 
-            "stings, our unbitted lusts, whereof I take this that" + 
-            "you call love to be a sect or scion.",
+            "Radiowóz eskortujący delegację Botswany biorącą udział w szczycie klimatycznym " +
+                    "COP24 dachował we wtorek na Trasie Średnicowej w Katowicach. " +
+                    "W kolumnie, którą prowadził, jechał między innymi prezydent " +
+                    "Botswany Mokgweetsi E.K. Masisi wraz z małżonką Neo Jane Masisi. " +
+                    "Samochód dachował na Drogowej Trasie Średnicowej w Katowicach. Ja" +
+                    "k podał zespół prasowy śląskiej policji, wcześniej prawdopodobnie" +
+                    " wpadł w poślizg. Zdarzenie miało miejsce na wysokości ulicy Brac" +
+                    "kiej, przy zjeździe w ulicą Chorzowską. Radiowóz jechał na cze" +
+                    "le kolumny, prowadził go policjant z garnizonu małopolskiego. Fu" +
+                    "nkcjonariusz po dachowaniu doznał obrażeń, ale jego życiu nie zag" +
+                    "raża niebezpieczeństwo. Trafił do szpitala. (http://www.tvn24.pl)",
 
-            "Blow, winds, and crack your cheeks! rage! blow!" + 
-            "You cataracts and hurricanoes, spout" + 
-            "Till you have drench'd our steeples, drown'd the cocks!" + 
-            "You sulphurous and thought-executing fires," + 
-            "Vaunt-couriers to oak-cleaving thunderbolts," + 
-            "Singe my white head! And thou, all-shaking thunder," + 
-            "Smite flat the thick rotundity o' the world!" + 
-            "Crack nature's moulds, an germens spill at once," + 
-            "That make ingrateful man!"
+            "Pogoda w nocy z wtorku na środę może być niebezpieczna. " +
+                    "Na północy i południu mogą pojawić się opady ma" +
+                    "rznące, które spowodują gołoledź. Dodatkowo w pa" +
+                    "sie nadmorskim w województwie pomorskim może mocniej powiać.\n" +
+                    "Instytut Meteorologii i Gospodarki Wodnej wydał" +
+                    " ostrzeżenia pierwszego stopnia dla czterech województw.\n" +
+                    "\n" +
+                    "Gdzie obowiązują ostrzeżenia?\n" +
+                    "SILNY WIATR\n" +
+                    "W województwie pomorskim w powiatach: słupskim" +
+                    ", lęborskim, wejherowskim i puckim średnia pr" +
+                    "ędkość wiatru wyniesie od 30 do 45 kilometrów" +
+                    " na godzinę, a porywów - do 80 km/h. Powieje z p" +
+                    "ółnocnego zachodu i zachodu.\n" +
+                    "\n" +
+                    "Ostrzeżenia będą obowiązywać do godziny 7.30 w środę.\n" +
+                    "\n" +
+                    "OBLODZENIA\nPrzed oblodzeniami IMGW ostrzega województwa:\n" +
+                    "- śląskie (powiaty: cieszyński, bielski, Bielsko-Biała i żywiecki),\n" +
+                    "\n" +
+                    "- małopolskie (powiaty: suski, limanowski, myślenicki, " +
+                    "nowosądecki, Nowy Sącz, gorlicki, nowotarski i tatrzański),\n" +
+                    "\n" +
+                    "- podkarpackie (powiaty: jasielski, krośnieński, Krosno, " +
+                    "sanocki, leski, bieszczadzki)\n" +
+                    "\n" +
+                    "- pomorskie (powiaty: słupski, Słupsk, bytowski, kościers" +
+                    "ki, lęborski, wejherowski, pucki, Gdynia, Sopot, Gdańsk, kartuski, gdański, nowodworski).\n" +
+                    "\n" +
+                    "Prognozuje się tam zamarzanie mokrej nawierzchni dróg i ch" +
+                    "odników po opadach deszczu i deszczu ze śniegiem. W południ" +
+                    "owej części kraju temperatura spadnie do około -3 stopni Cel" +
+                    "sjusza, a temperatura minimalna gruntu wyniesie około -4 st. C" +
+                    ". Natomiast na północy temperatura minimalna sięgnie około 0 st" +
+                    ". C, a przy gruncie -2 st. C.",
+            
+            "Stany Zjednoczone dają Rosji 60 dni na powrót d" +
+                    "o przestrzegania traktatu rozbrojeniowego " +
+                    "INF - oświadczył we wtorek w Brukseli sekr" +
+                    "etarz stanu USA Mike Pompeo. Ostrzegł, że " +
+                    "w przeciwnym razie Waszyngton rozpocznie proced" +
+                    "urę wyjścia z tego układu. Pompeo ocenił, że \"stra" +
+                    "tegicznie nie ma sensu być jedynym państwem, które prz" +
+                    "estrzega traktatu INF\". Zapewnił równocześnie, że stro" +
+                    "na amerykańska będzie konsultowała się z europejskimi p" +
+                    "aństwami w sprawie kolejnych kroków waszyngtońskiej admi" +
+                    "nistracji w tej kwestii. - Albo będziemy chować głowę w p" +
+                    "iasek, albo podejmiemy zdroworozsądkowe działania - wezwa" +
+                    "ł szef amerykańskiej dyplomacji. Amerykański sekretarz st" +
+                    "anu ostrzegł też, że zasięg nowego rosyjskiego pocisku po" +
+                    "średniego zasięgu pod nazwą SSC-8 stanowi \"bezpośrednie " +
+                    "zagrożenie dla Europy\". Oskarżył Rosję o \"oszukiwanie w" +
+                    " swoich zobowiązaniach dotyczących kontroli zbrojeń\". (http://www.tvn24.pl)",
+
+            "Ministrowie odpowiedzialni za przygotowanie analizy prawnej dot" +
+                    "yczącej wyjścia Zjednoczonego Królestwa z Unii Europejsk" +
+                    "iej dopuścili się obrazy parlamentu - uznała we wtorek b" +
+                    "rytyjska Izba Gmin. Ministrowie ci wcześniej, wbrew decy" +
+                    "zji posłów, odmówili upublicznienia dokumentu. To pierws" +
+                    "zy przypadek w historii brytyjskiego parlamentaryzmu aby" +
+                    " Izba Gmin uznała, że winni takiego przewinienia są urzędu" +
+                    "jący członkowie rządu. Za wnioskiem zagłosowało 311 posłów" +
+                    ", przeciwko - 293. \nSpór dotyczy publikacji \"pełnej i " +
+                    "ostatecznej\" analizy prawnej dotyczącej proponowanej umowy " +
+                    "ws. Brexitu, która została przygotowana przez głównego radcę" +
+                    " prawnego rządu i prokuratora generalnego Geoffreya Coxa. W p" +
+                    "ołowie listopada na wniosek opozycyjnej Partii Pracy parlament" +
+                    " przegłosował żądanie, bez sprzeciwu rządu, aby dokument został" +
+                    " przekazany opinii publicznej. Nieopublikowana analiza W poniedz" +
+                    "iałek Cox zaprezentował liczący 52-strony \"komentarz\" do porozumienia," +
+                    " odmawiając jednak publikacji całego tekstu analizy udostępnionej członk" +
+                    "om rządu, zasłaniając się interesem państwowym i wrażliwymi informac" +
+                    "jami. \nW odpowiedzi opozycyjne ugrupowania - Partia Pracy, Szkocka " +
+                    "Partia Narodowa, Liberalni Demokraci, Plaid Cymru i Partia Zielonych" +
+                    " oraz wspierająca mniejszościowy rząd premier Theresy May Demokratyc" +
+                    "zna Partia Unionistów - przedłożyły wspólny wniosek, domagający się " +
+                    "uznania tego posunięcia za obrazę woli parlamentu, a także natychmia" +
+                    "stowej publikacji dokumentu. Wśród możliwych kar grożących za obrazę p" +
+                    "arlamentu jest m.in. czasowe zawieszenie winnego posła. (http://www.tvn24.pl)",
+
+            "30 listopada 2018 roku w wieku 94 lat zmarł były prezydent Stanów Zj" +
+                    "ednoczonych George H.W. Bush.\n\n \"Jeb, Neil, Mar" +
+                    "vin, Doro i ja ze smutkiem ogłaszamy, że po 94 god" +
+                    "nych podziwu latach zmarł nasz ojciec. George H.W." +
+                    " Bush był człowiekiem o najsilniejszym charakterze " +
+                    "i najlepszym ojcem, o jakiego syn czy córka mogą pro" +
+                    "sić\" - czytamy w opublikowanym na Twitterze oświadcz" +
+                    "eniu syna zmarłego polityka, również byłego prezydenta USA. \n" +
+                    "Jak dodał, cała rodzina wdzięczna jest za \"życie i miłość\"" +
+                    " 41. prezydenta USA oraz kondolencje i \"wyrazy współczucia " +
+                    "tych, którzy troszczyli się\" o jego ojca i modlili się za n" +
+                    "iego. (http://www.tvn24.pl)",
+
+            "Austriak powołał Piotra Żyłę, Kamila Stocha, Dawi" +
+                    "da Kubackiego, Jakuba Wolnego, Stefana Hu" +
+                    "lę i Macieja Kota, czyli tę samą szóstkę," +
+                    " która skakała podczas trzech pierwszych w" +
+                    "eekendów sezonu. W tym składzie Polacy miel" +
+                    "i się pojawić podczas dwóch najbliższych zaw" +
+                    "odów - w Titisee-Neustadt, a potem w Engelbe" +
+                    "rgu. Już po ogłoszeniu decyzji selekcjonera o" +
+                    "kazało się jednak, że z powodu fatalnej pogody" +
+                    " impreza w Titisee-Neustadt się nie odbędzie. " +
+                    "\n\nKot najsłabszy\n Po pięciu konkursach indywidual" +
+                    "nych najwyżej sklasyfikowanym z Polaków jest Piot" +
+                    "r Żyła, który zajmuje drugie miejsce. Trzeci jest" +
+                    " Kamil Stoch. Najgorzej wiedzie się Maciejowi Kot" +
+                    "owi, który uzbierał dotąd tylko dwa punkty. (http://www.tvn24.pl)"
     };
 }
